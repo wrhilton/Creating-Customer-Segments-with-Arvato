@@ -1,3 +1,5 @@
+This is a project I completed for the Udacity Data Analytics Nanodegree. Work is my own.
+
 # Project: Identify Customer Segments for a Mail-Order Company
 
 ## Overview
